@@ -216,12 +216,8 @@ const Portfolio = () => {
             </div>
             
             <div className="relative group">
-              <div className="relative w-full aspect-square rounded-md overflow-hidden">
-                <img
-                  src="/pfp.jpg"
-                  alt="Jakub Sromek"
-                  className="w-full h-full object-cover transition-all duration-300"
-                />
+              <div className="relative w-full aspect-square rounded-md overflow-hidden flex items-center justify-center bg-slate-800">
+                <span className="text-8xl" role="img" aria-label="Landscape">🏞️</span>
                 <div className="absolute inset-0 bg-teal-400/10 hover:bg-transparent transition-colors duration-300"></div>
               </div>
               <div className="absolute -z-10 top-4 left-4 w-full h-full border-2 border-teal-400 rounded-md transition-all duration-300 group-hover:top-5 group-hover:left-5"></div>
