@@ -3,18 +3,18 @@
   "name": "Jakub Sromek Portfolio",
   "icons": [
     {
-      "src": "favicon.ico",
+      "src": "xd.gif",
       "sizes": "64x64 32x32 24x24 16x16",
-      "type": "image/x-icon"
+      "type": "image/gif"
     },
     {
-      "src": "logo192.png",
-      "type": "image/png",
+      "src": "xd.gif",
+      "type": "image/gif",
       "sizes": "192x192"
     },
     {
-      "src": "logo512.png",
-      "type": "image/png",
+      "src": "xd.gif",
+      "type": "image/gif",
       "sizes": "512x512"
     }
   ],
